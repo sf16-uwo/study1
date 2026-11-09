@@ -1,0 +1,18 @@
+{
+  "name": "Studyflow \u2014 Academic OS",
+  "short_name": "Studyflow",
+  "description": "Adaptive workload and study planner",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090c12",
+  "theme_color": "#0b0e14",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
